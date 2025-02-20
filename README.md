@@ -1,6 +1,4 @@
-# APDS7311 
-
-Github REPO - https://github.com/ST10150631/APDS7311
+# Swift Banking App
 
 ## Team:
 
